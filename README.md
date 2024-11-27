@@ -17,4 +17,4 @@
 قم بفتح الطرفية (Terminal) واستخدم الأمر التالي لاستنساخ المشروع:
 
 ```bash
-[git clone [https://github.com/USERNAME/REPOSITORY_NAME.git](https://github.com/Va2lyR/Currency-Conversion-Bot)]
+[git clone https://github.com/Va2lyR/Currency-Conversion-Bot ]
